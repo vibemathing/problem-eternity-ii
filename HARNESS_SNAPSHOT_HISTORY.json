@@ -6,6 +6,13 @@
       "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
       "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
       "tree_sha256": "137d73c94daaa634861cf29d8f1e775a885d450ae4a89c3a2607aeaef1aeee35"
+    },
+    {
+      "harness_snapshot_sha256": "ced74cbe9e260dc423e265b59a16848812bc8c05bedfeaf955254d687c405769",
+      "harness_version": "1.2.6",
+      "tree_sha256": "5c76d7bc78d373fa7b437a1e978ed2401245ad0dc1b54aa83a2a726fa42cedfe",
+      "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1"
     }
   ],
   "repository": "vibemathing/problem-eternity-ii",
