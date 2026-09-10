@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1.0",
+  "channel": "chatgpt-web-github-issue-pr-writer",
+  "repository": "vibemathing/problem-eternity-ii",
+  "repository_identity": {
+    "binding_state": "verified",
+    "database_id": 1361062046,
+    "node_id": "R_kgDOUSAong",
+    "default_branch": "main"
+  },
+  "problem_id": "problem:eternity-ii",
+  "problem_contract_sha256": "6f60c2669d44c53d5b02900e340f001b7fdba76ba3454b813530b79d3e583b1c",
+  "harness_snapshot_sha256": "ced74cbe9e260dc423e265b59a16848812bc8c05bedfeaf955254d687c405769",
+  "base_revision": "002b6a2f7ccfb45b44febb573f96d467166d5be7",
+  "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
+  "attempt_id": "attempt:chatgpt-conjecture-catalog-eternity-ii-01",
+  "route_id": "route:chatgpt-conjecture-freeze-eternity-ii-v1",
+  "graph_id": "graph:chatgpt-conjecture-freeze-eternity-ii-v1",
+  "obligation_id": "obligation:freeze-eight-category-candidates-eternity-ii-v1",
+  "generator": {
+    "principal": "chatgpt-web-channel",
+    "model_label": "b8-drill",
+    "model_fingerprint_status": "unverified"
+  },
+  "transport": {
+    "branch": "web/attempt-b8-drill-01",
+    "issue_number": 1,
+    "issue_url": "https://github.com/vibemathing/problem-eternity-ii/issues/1",
+    "pull_request_number": null,
+    "pull_request_url": null
+  },
+  "objective": "Freeze an eight-category conjecture map from the user-provided ChatGPT export as candidate-only mathematical research material; preserve exact scope, assumptions, source status, falsifiers, and unresolved verification obligations without claiming a proof, counterexample, Evidence, Result, or Solution.",
+  "candidate_artifacts": [
+    {
+      "candidate_id": "candidate:b8-drill-eight-category-map",
+      "kind": "computation",
+      "locator": "research/artifacts/candidates/b8-drill-eight-category-map.md",
+      "sha256": "025813056bc97b77ae0f58b0980f7ce5e852a772673cf913278849350325e06d"
+    }
+  ],
+  "atomic_claims": [
+    {
+      "claim_id": "claim:c1",
+      "text": "drill candidate-only freeze placeholder",
+      "status": "candidate"
+    }
+  ],
+  "assumptions": [
+    "drill 演练，非数学投递"
+  ],
+  "risks": [
+    "演练内容不构成候选结论"
+  ],
+  "open_obligations": [],
+  "failed_route_proposal": null,
+  "source_refs": [
+    {
+      "repository": "vibemathing/problem-eternity-ii",
+      "path": "README.md",
+      "revision": "002b6a2f7ccfb45b44febb573f96d467166d5be7",
+      "relation": "exact"
+    }
+  ],
+  "requested_verification": [
+    "candidate_peer_review"
+  ],
+  "verdict": "candidate_only",
+  "created_at": "2026-09-09T19:00:00Z",
+  "admission_request": {
+    "request_id": "admission:chatgpt-conjecture-catalog-eternity-ii-01",
+    "graph_id": "graph:chatgpt-conjecture-freeze-eternity-ii-v1",
+    "obligation_id": "obligation:freeze-eight-category-candidates-eternity-ii-v1",
+    "route_id": "route:chatgpt-conjecture-freeze-eternity-ii-v1",
+    "attempt_id": "attempt:chatgpt-conjecture-catalog-eternity-ii-01",
+    "problem_contract_sha256": "6f60c2669d44c53d5b02900e340f001b7fdba76ba3454b813530b79d3e583b1c"
+  }
+}
